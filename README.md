@@ -13,7 +13,7 @@ This is a project from my [Next.js 13 Crash Course](https://youtu.be/Y6KDk5iyrYE
 - loading.js Page
 - and more
 
-<img src="./public/screen.png" width="500">
+<img src="./public/screen.jpg" width="500">
 
 ## Usage
 
